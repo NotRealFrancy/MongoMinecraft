@@ -1,0 +1,10 @@
+name: MongoSpigot
+description: MongoDB API for Spigot Servers
+version: 1.0
+main: org.github.notrealfrancy.mongospigot.MongoSpigot
+author: NotRealFrancy_
+website: https://github.com/NotRealFrancy/MongoMinecraft
+load: STARTUP
+commands:
+  mongospigot:
+    aliases: ['mongodb', 'mongo', 'database', 'db']
